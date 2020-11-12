@@ -5,5 +5,5 @@ Sale of the application is prohibited.
 The application collects information about your computer and uses it to improve the quality, but does not send it to us.                                                           
 
 # Links.
-GitHub AQUA`S TEAM - https://github.com/aqua-s-team .                                                                                  
-Discord owner of AQUA`S TEAM - AQUA!#4115 .                                                                                  
+GitHub AQUA\`S TEAM - https://github.com/aqua-s-team .                                                                                                                        
+Discord owner of AQUA\`S TEAM - AQUA!#4115 .                                                                                                                                                   
